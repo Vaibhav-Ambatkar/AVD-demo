@@ -1,4 +1,4 @@
 # AVD-demo
 This is my first Repository.
 <br>
-Author - Vaibhav Ambatkar
+Author - Vaibhav (AVD)
